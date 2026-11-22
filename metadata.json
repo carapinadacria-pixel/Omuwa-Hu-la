@@ -1,0 +1,8 @@
+{
+  "name": "Omuwa-Huila",
+  "description": "Marketplace e diretório oficial de empresas privadas e profissionais independentes da Província da Huíla, Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
